@@ -16,8 +16,24 @@ Course material and example project for the course JavaScript for Web, September
 
 * [document.getElementById](https://developer.mozilla.org/de/docs/Web/API/Document/getElementById)
 * [document.querySelectorAll](https://developer.mozilla.org/de/docs/Web/API/Document/querySelectorAll)
-* [Examples](https://codesandbox.io/s/inspiring-wave-1m816?file=/src/index.js)
 
 ### Optional homework
 
 * Check out [Tailwind](https://tailwindcss.com/)
+
+## Session 2
+
+### Modify elements and create elements
+
+* [Template literals/strings](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/template_strings)
+* [document.createElement](https://developer.mozilla.org/de/docs/Web/API/Document/createElement)
+* [element.innerHTML](https://developer.mozilla.org/de/docs/Web/API/Element/innerHTML)
+* [Tailwind installation](https://tailwindcss.com/docs/installation#using-tailwind-via-cdn)
+* [Array.join](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
+* [Example](https://codesandbox.io/s/inspiring-wave-1m816?file=/src/index.js)
+
+### Optional homework
+
+* Use Tailwind to show beautiful biographies of your friends
+* Think about adding new friends to your list of friends
+ 
