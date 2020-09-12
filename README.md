@@ -36,4 +36,19 @@ Course material and example project for the course JavaScript for Web, September
 
 * Use Tailwind to show beautiful biographies of your friends
 * Think about adding new friends to your list of friends
- 
+
+## Session 3
+
+### Work with forms
+
+* [Array.push](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
+* [HTML Forms](https://www.w3schools.com/html/html_forms.asp)
+* [input.value](https://www.w3schools.com/tags/att_input_value.asp)
+* [JSON.parse](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
+* [JSON.stringify](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
+* [Example](https://codesandbox.io/s/session-3-0vywr?file=/src/index.js)
+
+### Optional homework
+
+* Use the localstorage to save your list of friends and keep it updated even when adding new friends
+* You will need `JSON.parse` and `JSON.stringify` for this, so you may want to take a look at the docs and at the example at the very bottom
