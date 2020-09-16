@@ -68,3 +68,17 @@ Course material and example project for the course JavaScript for Web, September
 
 * Show a Delete button for every friend entry. For this you could use `document.createElement('button')`
 * If you successfully added the button, try registering an event listener. Whenever we click the button, we want to log something in the console
+
+## Session 5
+
+### Sort our list of friends
+
+* [Array.splice](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+* [Array.sort](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
+* [Select element and its change handling](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/change_event)
+* [Example](https://codesandbox.io/s/session-5-hlwms?file=/index.html)
+
+### Optional homework
+
+* Go through your code and try to really understand it. Change a thing here and there and see how it influences the behaviour
+* Take a first look at the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch). The next session will be about external APIs!
