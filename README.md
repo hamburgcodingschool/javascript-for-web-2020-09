@@ -82,3 +82,15 @@ Course material and example project for the course JavaScript for Web, September
 
 * Go through your code and try to really understand it. Change a thing here and there and see how it influences the behaviour
 * Take a first look at the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch). The next session will be about external APIs!
+
+## Session 6
+
+### Fetch and show cat facts
+
+* [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+* [CatFact API](https://catfact.ninja/)
+* [Example](https://codesandbox.io/s/session-6-2sor7?file=/src/index.js)
+
+### Optional homework
+
+* We can limit the size of requested facts. We could only fetch 25 but in total there are many more facts. That is why the API offers pagination by adding a `page` URL parameter, e.g. https://catfact.ninja/facts?page=4. Think about how you would implement a pagination and try implementing it
