@@ -88,6 +88,7 @@ Course material and example project for the course JavaScript for Web, September
 ### Fetch and show cat facts
 
 * [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+* [Postman](https://www.postman.com/downloads/)
 * [CatFact API](https://catfact.ninja/)
 * [Example](https://codesandbox.io/s/session-6-2sor7?file=/src/index.js)
 
