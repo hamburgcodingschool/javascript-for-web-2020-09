@@ -95,3 +95,15 @@ Course material and example project for the course JavaScript for Web, September
 ### Optional homework
 
 * We can limit the size of requested facts. We could only fetch 25 but in total there are many more facts. That is why the API offers pagination by adding a `page` URL parameter, e.g. https://catfact.ninja/facts?page=4. Think about how you would implement a pagination and try implementing it
+
+## Session 7
+
+### Fetch beers
+
+* [Beer API documentation](https://punkapi.com/documentation/v2)
+* [JSON Formatter Chrome extension](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+* [Example](https://codesandbox.io/s/session-7-57shj?file=/src/index.js)
+
+### Optional homework
+
+* Add a form to the page to filter by a given beer name using the `beer_name` request parameter
