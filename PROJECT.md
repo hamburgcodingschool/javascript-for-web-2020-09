@@ -35,5 +35,6 @@ So far, we have not played around with embedding a Google Map. If you want to, f
 * You will have two consultation classes:
 	* 30.09. 18:00 - 20:00
 	* 05.10 18:00 - 20:00
+* You have time till the 09.10
 * Once you are done, send an email to jonas.reitmann@hamburgcodingschool.com with a link to your GitHub profile or CodeSandbox
 * Need a new challenge? Let Jonas know! 
