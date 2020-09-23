@@ -107,3 +107,11 @@ Course material and example project for the course JavaScript for Web, September
 ### Optional homework
 
 * Add a form to the page to filter by a given beer name using the `beer_name` request parameter
+
+## Session 8
+
+### Fetch weather information
+
+* [OpenWeatherMap API](https://openweathermap.org/api)
+* [OpenWeatherMap Weather conditions](https://openweathermap.org/weather-conditions)
+* [Example](https://codesandbox.io/s/session-8-rwif9?file=/index.html)
