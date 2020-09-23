@@ -26,8 +26,11 @@ Do not only make it work but make it beautiful :) This is a great way to demonst
 * Show it as one of the information in your travel location
 * Dependent on the weather, you could show different icons
 
+### Optional: Show a map with its location on a map
+So far, we have not played around with embedding a Google Map. If you want to, feel free to play around with the [Google Maps API](https://developers.google.com/maps/documentation/javascript/overview) and how to integrate it in your app. You could then show the travel location on a map for every travel location.
+
 ### Optional: Integrate your destinations on a map
-So far, we have not played around with embedding a Google Map. If you want to, feel free to play around with the [Google Maps API](https://developers.google.com/maps/documentation/javascript/overview) and how to integrate it in your app. 
+* Show a map with all travel locations on a map
 
 ## General information
 * You can work Jonas for help anytime
